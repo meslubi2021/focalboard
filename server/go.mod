@@ -23,7 +23,7 @@ require (
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.8.1
 	github.com/wiggin77/merror v1.0.4
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.21.0
 )
 
 require (
@@ -96,14 +96,14 @@ require (
 	github.com/xtgo/uuid v0.0.0-20140804021211-a0b114877d4c // indirect
 	github.com/yuin/goldmark v1.5.3 // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	google.golang.org/grpc v1.56.3 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
